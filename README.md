@@ -19,7 +19,7 @@ Request url params:
 ```
 Response: 
 [“Str”,
-    “Str”]
+ “Str”]
 ```
 
 Task:  
